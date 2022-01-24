@@ -12,7 +12,7 @@ Technonology:
     - MATLAB/simscape - To tune the PID controller
     - Proteus 8 proffesional - Circuit design and source code troubleshooting.
 
-This converter is set to boost input voltage from 5 to 9 volts and yield 15 vols output.
+This converter is set to boost input voltage from 5 to 9 volts and yield 15 volts output.
 
 _Fig.1: **Boost Converter output(GREEN), input(RED), and Feedback(BLUE) waveforms**_
 
